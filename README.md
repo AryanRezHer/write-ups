@@ -19,12 +19,12 @@ Los write-ups están diseñados para ayudar a otros a comprender el proceso detr
 
 Cada write-up sigue esta estructura:
 
-Resumen: Breve descripción del desafío o máquina.
-Reconocimiento: Escaneo y recolección de información inicial.
-Enumeración: Investigación más profunda en los servicios identificados y vulnerabilidades potenciales.
-Explotación: Cómo se explotaron las vulnerabilidades para obtener acceso.
-Escalada de privilegios (si aplica): Cómo se obtuvo acceso como root/administrador.
-Conclusión: Lecciones aprendidas y puntos clave.
+- Resumen: Breve descripción del desafío o máquina.
+- Reconocimiento: Escaneo y recolección de información inicial.
+- Enumeración: Investigación más profunda en los servicios identificados y vulnerabilidades potenciales.
+- Explotación: Cómo se explotaron las vulnerabilidades para obtener acceso.
+- Escalada de privilegios (si aplica): Cómo se obtuvo acceso como root/administrador.
+- Conclusión: Lecciones aprendidas y puntos clave.
 
 ## Objetivo
 
